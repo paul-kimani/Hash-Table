@@ -1,0 +1,14 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build and Executable Directories
+bin/
+build/
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
